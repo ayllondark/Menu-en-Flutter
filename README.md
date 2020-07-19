@@ -9,12 +9,12 @@
 ###Characters
                 
 ----
-Desarrollo de 2 pantallas en flutter utilizando PageView de forma slider.
+Desarrollo Menu con secciones en flutter.
 
 
 Image:
 
-![](http://www.creativalatam.com/images/pageview.gif)
+![](http://www.creativalatam.com/images/diseno-menu-flutter.gif)
 
 
 
